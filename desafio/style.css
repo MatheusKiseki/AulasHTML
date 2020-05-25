@@ -1,0 +1,63 @@
+img {
+    padding: 5px;
+    width: 200px;
+    float: left;
+  }
+
+  .linkmenu{
+      margin-left: 30px;
+      text-decoration: none;
+      color: black; font-size: 15px;
+  }
+
+
+  .menu{  
+    float: left;
+    margin-left: 150px;
+    width: 36%;
+    margin-top: 10px;   
+    }
+
+.menu2{      
+    float: left;
+    width: 23%;
+    margin-top: 10px;
+}
+
+button {   
+    background-color:white;
+    border: 1px solid #0288d1;
+    color: black;
+    padding: 10px 25px;
+    text-align: center;   
+    font-size: 16px;
+    color: #0288d1;
+  }
+
+.fonte{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.textoclareado{
+    font-weight: lighter;
+}
+
+.textocentral{   
+    font-size: 50px;
+    padding-top: 280px;
+    text-align: center;
+}
+.textomenor{
+    font-size: 18px;
+    padding-top: 20px;
+    text-align: center;
+    margin-top: 5px;
+}
+
+
+
+.botao2{
+    background-color:#1E90FF;
+    color: white;
+    margin-right: 200px;
+}
